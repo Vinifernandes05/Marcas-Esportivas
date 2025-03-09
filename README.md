@@ -1,4 +1,4 @@
-##  **Marcas Esportivas: Seu Guia Pessoal para as Melhores Marcas do Esporte - Imersão Dev com Google Gemini 
+##  Marcas Esportivas: Seu Guia Pessoal para as Melhores Marcas do Esporte - Imersão Dev com Google Gemini 
 
 **O que faz essa aplicação?**
 
@@ -15,6 +15,6 @@ Com a Marcas Esportivas, você encontra tudo o que precisa saber sobre as suas m
 
 **Tecnologias utilizadas:**
 
-* **HTML:** A estrutura básica da página, como você já sabe!
-* **CSS:** Deixa tudo bonitinho e organizado, com um design moderno e fácil de usar.
-* **JavaScript:** A parte mais legal! É o JavaScript que faz toda a mágica acontecer, pesquisando os dados e mostrando os resultados na tela.
+* **HTML:** A estrutura básica da página.
+* **CSS:** Deixa tudo bonito e organizado, com um design moderno e fácil de usar.
+* **JavaScript:** É o JavaScript que faz toda a mágica acontecer, pesquisando os dados e mostrando os resultados na tela.
