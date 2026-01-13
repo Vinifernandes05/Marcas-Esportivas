@@ -13,7 +13,7 @@ Com a Marcas Esportivas, você encontra tudo o que precisa saber sobre as suas m
    * **Descrição:** Uma breve descrição sobre a marca e seus produtos.
    * **Link:** Um link direto para o site oficial da marca, para você saber tudo sobre ela.
 
-** Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 
 * **HTML:** A estrutura básica da página.
 * **CSS:** Deixa tudo bonito e organizado, com um design moderno e fácil de usar.
