@@ -62,10 +62,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 MARCAS-ESPORTIVAS
 │
-├── app.js # Lógica da pesquisa e interação
-├── dados.js # Armazenamento das informações das marcas esportivas
+├── app.js     # Lógica da pesquisa e interação
+├── dados.js   # Armazenamento das informações das marcas esportivas
 ├── index.html # Estrutura da aplicação
-├── style.css # Estilização
+├── style.css  # Estilização
 │
 └── README.md
 ```
