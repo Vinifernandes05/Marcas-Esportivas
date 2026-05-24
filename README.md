@@ -38,10 +38,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### 🔹 Outros
 - Git  
-- GitHub  
-- Vercel  
+- GitHub   
 - JSON  
-
+- Vercel
+  
 ---
 
 ## ⚙️ Funcionalidades
